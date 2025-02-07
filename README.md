@@ -27,6 +27,11 @@
   <img src="eq.png" alt="eq" />
 </figure>
 
+### 工业任务
+<figure>
+  <img src="task.png" alt="task" />
+</figure>
+
 ### 工艺模型
 <figure>
   <img src="model.png" alt="model" />
