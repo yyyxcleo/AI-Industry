@@ -1,11 +1,10 @@
 ## 开发
 
 ```bash
-# 克隆项目
-git clone https://gitee.com/KonBAI-Q/ruoyi-flowable-plus.git
+
 
 # 进入项目目录
-cd ruoyi-ui
+cd ui
 
 # 安装依赖
 npm install
